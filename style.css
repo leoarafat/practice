@@ -23,10 +23,30 @@ body{
 }
 .half-width{
     width: 50%;
-  
-  
-    
+ 
 }
 .img{
     width: 80%;
+}
+.about-me-section{
+    background-image: url(images/about-bg.png);
+    background-repeat: no-repeat;
+    display: flex;
+    padding: 5%;
+    height: 100%;
+
+  
+}
+.image{
+    width: 100%;
+
+}
+.image-div{
+    width: 50%;
+   
+   
+}
+.desc-div{
+    width: 50% ;
+    text-align: center;
 }
