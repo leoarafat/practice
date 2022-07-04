@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.skip{
+    color: orange;
+}
+.btn{
+    text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+
+}
+.header-section{
+    display: flex;
+    padding: 5%;
+}
+.half-width{
+    width: 50%;
+  
+  
+    
+}
+.img{
+    width: 80%;
+}
